@@ -1,2 +1,2 @@
-# CumulusMX-FTP-Backup
+# CumulusMX automatic FTP backup
 Coming
